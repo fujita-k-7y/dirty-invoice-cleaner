@@ -10,10 +10,10 @@ Excel形式で記載された請求書ファイルを自動的に解析し、以
 - 品目、金額、税率などを構造化データ（CSV/DF）として抽出
 
 ### Before: 構造化前の請求書サンプル
-<IMG src='./images/dirty_invoice.png' width=700>
+<IMG src='./images/dirty_invoice.png' width=1000>
 
 ### After: 構造化例
-<IMG src='./images/cleaned_invoice.png' width=700>
+<IMG src='./images/cleaned_invoice.png' width=1000>
 
 ## 💡 構造化データの活用イメージ
 WebアプリやBIツールを用いたデータ活用により、現場の業務効率化や経費管理の精度向上を支援できます。
