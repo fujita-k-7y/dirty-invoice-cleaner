@@ -32,9 +32,9 @@ WebアプリやBIツールを用いたデータ活用により、現場の業務
 
 将来的には、汎用的な「帳票構造化支援ツール」として、さまざまな業務に役立てられることを目指しています。
 
-## 📂 本コードのデモファイル
-- `samples/invoice_sample.xlsx`
-- `output/structured_data.csv`
+## 📂 本ツールのデモファイル
+- `input/invoice_before.xlsx`
+- `output/invoice_after.csv`
 
 ## 🧱 技術構成
 - Python 3.x
